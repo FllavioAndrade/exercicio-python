@@ -19,18 +19,27 @@ Exemplo de Saída
 0 nota(s) de R$ 2,00
 1 nota(s) de R$ 1,00
 '''
+
 cedula = int(input())
+print(cedula)
+
 a = int(cedula/100)
+
 cedula = cedula%100
 b = int(cedula/50)
+
 cedula = cedula%50
 c = int(cedula/20)
+
 cedula = cedula%20
 d = int(cedula/10)
+
 cedula = cedula%10
 e = int(cedula/5)
+
 cedula = cedula%5
 f = int(cedula/2)
-g = cedula%2
-print(f'{a} nota(s) de R$ 100,00\n{b} nota(s) de R$ 50,00\n{c} nota(s) de R$ 20,00\n{d} nota(s) de R$ 10,00\n{e} nota(s) de R$ 5,00\n{f} nota(s) de R$ 2,00\n{g} nota(s) de R$ 1,00\n')
 
+g = cedula%2
+print(f'{a} nota(s) de R$ 100,00\n{b} nota(s) de R$ 50,00\n{c} nota(s) de R$ 20,00\n{d} nota(s) de R$ 10,00\n{e} nota(s) de R$ 5,00\n{f} nota(s) de R$ 2,00\n{g} nota(s) de R$ 1,00')
+'''
