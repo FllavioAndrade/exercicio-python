@@ -26,9 +26,9 @@ A = float(A)
 B = float(B)
 C = float(C)
 
-if ((abs(B-C) < A) & (A > (B+C))) or ((abs(A-C) < B) & (B > (A+C))) or ((abs(A-B) < C) & (C > (A+B))):
+if(A<B+C and B < A + C and C < A + B):
     perimetro = (A + B + C)
-    print(f'Perimetro {perimetro:.1f}')
+    print(f'Perimetro = {perimetro:.1f}')
 else:
     area = ((A + B) / 2)*C
     print(f'Area = {area:.1f}')
