@@ -28,7 +28,7 @@ TRIANGULO ISOSCELES
 
 '''
 
-A, B, C = input().split()
+A, B, C = input('Digite os três lados do triângulo separados por espaço: ').split()
 lista = [A,B,C]
 lista1 = sorted(lista, key=float, reverse=True)
 A = float(lista1[0])
