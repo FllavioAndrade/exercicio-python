@@ -1,0 +1,19 @@
+Linda é melhor que feia.
+Explícito é melhor do que implícito.
+Simples é melhor que complexo.
+Complexo é melhor do que complicado.
+A planície é melhor que o aninhado.
+Esparse é melhor do que densa.
+Contagem de legibilidade.
+Casos especiais não são especiais o suficiente para quebrar as regras.
+Embora a praticidade supere a pureza.
+Os erros nunca devem passar silenciosamente.
+A menos que explicitamente silenciado.
+Diante da ambiguidade, recuse a tentação de adivinhar.
+Deveria haver um-e, de preferência, apenas uma-maneira óbvia de fazê-lo.
+Embora dessa maneira possa não ser óbvio a princípio, a menos que você seja holandês.
+Agora é melhor do que nunca.
+Embora nunca seja frequentemente melhor que * certo * agora.
+Se a implementação é difícil de explicar, é uma má ideia
+.Se a implementação for fácil de explicar, pode ser uma boa ideia.
+Os namespaces são uma ótima idéia - vamos fazer mais deles!

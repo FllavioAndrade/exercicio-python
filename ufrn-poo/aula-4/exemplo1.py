@@ -26,4 +26,5 @@ valor = 1
 qtd = 0
 
 while valor == 1:
-     = int(input('Digite um valor: '))
+   valor  = int(input('Digite um valor: '))
+
